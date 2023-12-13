@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WatchWave</string>
+    <string name="login">Login</string>
+    <string name="registered">SignUp</string>
+</resources>
